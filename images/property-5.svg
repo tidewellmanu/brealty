@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#dedbd7"/>
+<rect x="100" y="120" width="1000" height="560" rx="34" fill="#f7f7f7"/>
+<path d="M100 590 L390 330 L600 510 L760 370 L1100 650 L1100 680 L100 680Z" fill="#c7c1bc"/>
+<rect x="430" y="280" width="340" height="260" rx="8" fill="#b6aaa0"/>
+<rect x="470" y="320" width="90" height="110" fill="#f4f1ed"/><rect x="640" y="320" width="90" height="110" fill="#f4f1ed"/>
+<text x="100" y="85" font-family="Georgia,serif" font-size="34" fill="#171717">FRANLEANS ESTATE · PROPERTY 5</text>
+<text x="100" y="735" font-family="Arial,sans-serif" font-size="22" fill="#666">Replace this local placeholder with approved property photography.</text>
+</svg>
