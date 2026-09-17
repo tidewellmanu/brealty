@@ -1,7 +1,7 @@
 
 document.addEventListener("DOMContentLoaded",()=>{
  const id=Number(new URLSearchParams(location.search).get("id"))||1, p=properties.find(x=>x.id===id)||properties[0];
- document.title=`${p.title} | BREALTY GHANA`;
+ document.title=`${p.title} | RANSBERT ENGINEERING`;
  document.querySelector("#detail").innerHTML=`
  <div class="details-grid">
   <div><div class="gallery-main"><img id="main-img" src="${p.image}" alt="${p.title}"></div>
